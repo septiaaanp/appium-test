@@ -1,0 +1,9 @@
+pages\BasePage.class
+pages\OrderSuccessPage.class
+pages\PaymentPage.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\SearchPage.class
+driver\DriverManager.class
+utils\PriceCalculator.class
+pages\ProductDetailPage.class
